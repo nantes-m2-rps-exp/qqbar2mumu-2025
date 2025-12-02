@@ -8,7 +8,7 @@ Ci-dessous un résumé des commandes que vous utiliserez le plus souvent.
 Utiliser la commande git suivante :
 
 ```shell
-git clone https://github.com/nantes-m2-rps-exp/qqbar2mumu-2024.git
+git clone https://github.com/nantes-m2-rps-exp/qqbar2mumu-2025.git
 ```
 
 Par défault, vous êtes sur la branche `main`.

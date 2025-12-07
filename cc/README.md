@@ -2,17 +2,17 @@
 
 Utilisez votre navigateur préféré pour aller sur https://notebook.cc.in2p3.fr, qui devrait ressembler à :
 
-![](./cc-jupyter-platform-landing-page.wepb)
+![](cc-jupyter-platform-landing-page.wepb)
 
 Cliquez sur le bouton orange "Launch My Notebooks Server". Cela devrait vous emmener vers la page d'authentification du CC-IN2P3 :
 
-![](./cc-authentication-page.wepb)
+![](cc-authentication-page.wepb)
 
 Entrez votre identifiant et votre mot de passe (donnés par vos encadrants à la première séance)
 
 Vous obtenez alors l'écran principal de la plateforme Jupyter
 
-![](./cc-jupyter-ui.wepb)
+![](cc-jupyter-ui.wepb)
 
 # A faire après la première connexion
 
@@ -22,10 +22,10 @@ Aller dans le menu `Git -> Clone a Repository` et entrez l'adresse du dépot git
 https://github.com/nantes-m2-rps-exp/qqbar2mumu-2025.git
 ```
 
-![](./cc-jupyter-clone-a-repo.wepb)
+![](cc-jupyter-clone-a-repo.wepb)
 
 Vous devrez à ce stade entrez vos identifiants Github : nom d'utilisateur et "personal access token" (qui est différent de votre mot de passe pour accéder à votre compte Github).
 
 Notez qu'un répertoire `qqbar2mumu-2025` devrait apparaître dans la partie gauche de l'écran (qui est la partie "explorateur de fichiers"). A l'aide de l'explorateur de fichiers naviguez jusqu'au répertoire `qqbar2mumu-2025/notebooks` et double-cliquez sur `01-muon-eta-distribution.ipynl`. Ceci ouvre votre premier notebook qui vous sera présenté lors de la première séance.
 
-![](./cc-jupyter-first-notebook.wepb)
+![](cc-jupyter-first-notebook.wepb)

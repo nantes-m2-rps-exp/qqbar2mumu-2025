@@ -29,3 +29,7 @@ Vous devrez à ce stade entrez vos identifiants Github : nom d'utilisateur et "p
 Notez qu'un répertoire `qqbar2mumu-2025` devrait apparaître dans la partie gauche de l'écran (qui est la partie "explorateur de fichiers"). A l'aide de l'explorateur de fichiers naviguez jusqu'au répertoire `qqbar2mumu-2025/notebooks` et double-cliquez sur `01-muon-eta-distribution.ipynl`. Ceci ouvre votre premier notebook qui vous sera présenté lors de la première séance.
 
 ![](cc-jupyter-first-notebook.webp)
+
+Enfin, modifiez le mot de passe temporaire qui vous a été fourni pour votre accès au CC-IN2P3, en vous connectant au [portail d'identité](https://id.cc.in2p3.fr) et en cliquant sur "Changement de mot de passe".
+
+![](cc-portail-identite.webp)
